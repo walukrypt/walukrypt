@@ -6,8 +6,6 @@
 - check out this links https://GamersBaxe.wordpress.com
 - https://dev.to/thegamersbaxechief
 - https://coderlegion.com/register?u=2109
-- 
-- 
 
 <!---
 walukrypt/walukrypt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
