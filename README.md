@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Artificial Intelligence, Game Development, the use of Python and C
 - 📫 How to reach me @GamersBaxe via X
 - check out this links https://GamersBaxe.wordpress.com
+- email @ majaolagunju@gmail.com
+- https://linkedin/in/walukrypt
 - https://dev.to/thegamersbaxechief
 - https://coderlegion.com/register?u=2109
 
