@@ -1,5 +1,5 @@
+[Visitor Count](https://profile-counter.glitch.me/{your-username}/count.svg)
 <img align="right" src="https://visitor-badge.laobi.icu/?username=walukrypt&label=Visitors&color=brightgreen&style=flat-square" />
-![Visitor Count](https://profile-counter.glitch.me/{your-username}/count.svg)
 
 # Hey there, I'm Walu 👋
 ### @walukrypt
