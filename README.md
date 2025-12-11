@@ -1,4 +1,5 @@
 [Visitor Count](https://profile-counter.glitch.me/{your-username}/count.svg)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true)
 <img align="right" src="https://visitor-badge.laobi.icu/?username=walukrypt&label=Visitors&color=brightgreen&style=flat-square" />
 
 # Hey there, I'm Walu 👋
