@@ -1,5 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/?username=walukrypt&label=Visitors&color=brightgreen&style=flat-square" />
 
+### 🌐 Join Me on CoderLegion
+
+[![CoderLegion](https://coderlegion.com/cl_badge_logo1.png)](https://coderlegion.com/user/Waluthekrypt) Check out my articles and community posts on [CoderLegion!](https://coderlegion.com/user/Waluthekrypt)
+
 # Hey there, I'm Walu 👋
 ### @walukrypt
 
