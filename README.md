@@ -4,11 +4,13 @@
 
 [![CoderLegion](https://coderlegion.com/cl_badge_logo1.png)](https://coderlegion.com/user/Waluthekrypt) Check out my articles and community posts on [CoderLegion!](https://coderlegion.com/user/Waluthekrypt)
 
-# Hey there, I'm Walu 👋
-### @walukrypt
+#### Hi there 👋, I'm Adewale!
+**Backend Engineering • Game Optimization • Software Engineering **Solutions Architect & Cybersecurity Engineer**
+* 🔭 I’m currently building: AI-powered Game Localization tools in Godot.
+* 🌱 I’m learning: Advanced Agentic Workflows & ClickHouse Architecture.
+* 🛡️ Security Focus: I advocate for DevSecOps and automated vulnerability management.
 
-Backend Engineer • Game Optimization • Software Engineering • Cybersecurity Enthusiast  
-Currently building secure tools @ ALX
+
 
 <br>
 
